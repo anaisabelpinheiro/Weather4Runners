@@ -4,8 +4,64 @@ body {
     color: white;
 }
 */
+/*
 .cloud-icon
 {
     color: grey;
     font-size:16px;
 }
+
+*/
+body {
+    margin:           20px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p {
+    font-size: 22px;
+    font-display: center;
+    display: block;
+    padding:10px;
+    color: lightgray;
+
+}
+img {
+    opacity: 0.5;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding:40px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold; 
+    color:#009688;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    margin-bottom: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    text-align:left;
+    color:#007d71;
+    font-size:20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.col-md-2 {
+    color:lightgray;
+}
+
+.col-md-3{
+    color: #00635a;
+    font-weight:bold;
+}
+.btn {
+    color:lightgray;
+    text-align: left;
+}
+
+

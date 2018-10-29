@@ -1,4 +1,4 @@
-function isWindy(speed){
+/*function isWindy(speed){
 if(speed > 5) {
 alert('It is windy');
 } else {
@@ -9,3 +9,4 @@ alert('It is windy');
 isWindy(5);
 isWindy(10);
 isWindy(-10);
+*/
