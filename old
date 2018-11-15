@@ -1,0 +1,188 @@
+<!--<div class= "row">
+                <div class= "col-md-3">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                <div class= "col-md-3">Tomorrow</div>
+                <div class="row">
+                        <div class="offset-md-3 col-md-3">
+                            Maximum
+                        </div>
+                        <div class="offset-md-3 col-md-3">
+                            Minimum
+                        </div>
+                        <br>
+                        <br>
+                        <div class="col-md-4">
+                        <button type="button" class="btn btn-outline-info" style="background-color:#009688">More Info</button>
+                    </div> 
+                    </div>
+                    </div>
+                    </div>
+                <br>
+                <br>
+                <br>
+                <br>
+
+                <div class= "col-md-3">Saturday</div>
+                <div class="row"> 
+                <div class="offset-md-3 col-md-3">
+                        Maximum
+                    </div>
+                    <div class="offset-md-3 col-md-3">
+                        Minimum
+                    </div>
+                    <br>
+                    <br>
+                    <div class="col-md-4">
+                            <button type="button" class="btn btn-outline-info"style="background-color:#009688">More Info</button>
+                </div>
+                </div>
+                </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+
+                <div class= "col-md-3">Sunday</div>
+                <div class="row">
+                <div class="offset-md-3 col-md-3">
+                        Maximum
+                    </div>
+                    <div class="offset-md-3 col-md-3">
+                        Minimum
+                    </div>
+                    <br>
+                    <br>
+                    <div class="col-md-4">
+                            <button type="button" class="btn btn-outline-info"style="background-color:#009688">More Info</button>
+            </div>
+        </div>
+    </div> -->
+
+
+
+
+
+
+       <!-- <div class= "row">
+            <div class= "col-md-6">
+                Today
+            <div class="row">
+                <div class="offset-md-3 col-md-3">
+                    Temperature
+                </div>
+                <div class="col-md-3">
+                    Humidity
+                </div>
+                <div class="col-md-3">
+                    Wind
+            </div>
+            </div>
+            </div>
+
+            <div class= "col-md-2">
+                Tomorrow
+            </div>
+            <div class= "col-md-2">
+                Saturday
+            </div>
+            <div class= "col-md-2">
+                Sunday
+            </div>-->
+
+
+
+
+            <div class="row">
+                <div class="col-md-2 offset-md-3"> <strong>Feels like</strong></div>
+                <div class="col-md-2"> <strong>Visibility</strong></div>
+                <div class="col-md-2"> <strong>Wind</strong></div>
+                <div class="col-md-2"> <strong>Humidity</strong></div>
+                <hr>
+
+                <div class="container">
+
+                    <hr style="height:2px;color:lightgray;background-color:lightgray;">
+
+                    <div class="row">
+                        <div class="col-md-2 offset-md-2"> <strong>Monday</strong></div>
+                        <div class="col-md-2"><strong>Tuesday</strong></div>
+                        <div class="col-md-2"><strong>Wednesday</strong></div>
+                        <div class="col-md-2"><strong>Thursday</strong></div>
+                        <div class="col-md-2"><strong>Friday</strong></div>
+
+                        <div class="container">
+
+                            <hr style="height:2px;color:lightgray;background-color:lightgray;">
+                            <div class="row">
+                                <div class="col-md-2 offset-md-2"> <i class="fas fa-bolt"></i> </div>
+                                <div class="col-md-2"> <i class="far fa-sun"></i> </div>
+                                <div class="col-md-2"> <i class="fas fa-cloud"></i></div>
+                                <div class="col-md-2"> <i class="fas fa-cloud-sun"></i></div>
+                                <div class="col-md-2"> <i class="fas fa-tint"></i></div>
+
+                                <div class="container">
+
+                                    <hr style="height:2px;color:lightgray;background-color:lightgray;">
+                                    <div class="row">
+                                        <div class="col-md-2 offset-md-2" temperature="19º" class="day"><strong>18º</strong></div>
+                                        <div class="col-md-2" temperature="21º" class="day"><strong>19º</strong></i>
+                                        </div>
+                                        <div class="col-md-2" temperature="20º" class="day"><strong>21º</strong></i></div>
+                                        <div class="col-md-2" temperature="23º" class="day"> <strong>19º</strong></i></div>
+                                        <div class="col-md-2" temperature="14º" class="day"> <strong>22º</strong></i></div>
+
+                                        <div class="container">
+                                            <hr style="height:2px;color:lightgray;background-color:lightgray;">
+                                            <div class="row">
+                                                <div class="col-md-2 offset-md-2" temperature="17º" class="day">
+                                                    <strong>12º</strong></div>
+                                                <div class="col-md-2" temperature="15º" class="day"> <strong>10º</strong></i>
+                                                </div>
+                                                <div class="col-md-2" temperature="16º" class="day"> <strong>11º</strong></i></div>
+                                                <div class="col-md-2" temperature="15º" class="day"> <strong>12º</strong></i></div>
+                                                <div class="col-md-2" temperature="19º" class="day"> <strong>10º</strong></i></div>
+
+
+            <ul class="nav justify-content-center">
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#"><strong>Weather4Runners</strong></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">31|12|2020</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">16:00:00</a>
+                </li>
+            </ul>
+
+            <h1>
+
+                <i class="far fa-sun"></i>
+                22ºC
+                Lisbon
+                <p>
+                    Last update: Yesterday
+                </p>
+            </h1>
+
+            <hr style="height:2px;color:lightgray;background-color:lightgray;">
+
+            
+                                                <button class="btn"> Refresh </button>
+
+
+    let elements = document.querySelectorAll('.day');
+      elements.forEach(function(dayElement, index) {
+        let dayName = dayElement.innerHTML;
+        dayElement.addEventListener('mouseenter', function() {
+          dayElement.innerHTML = dayElement.getAttribute('temperature') + ' degrees 🌥' ;
+        });
+
+        dayElement.addEventListener('mouseleave', function() {
+          dayElement.innerHTML = dayName;
+        });
+      });

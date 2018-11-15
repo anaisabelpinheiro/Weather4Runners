@@ -1,0 +1,114 @@
+/*
+body {
+    background:red;
+    color: white;
+}
+*/
+/*
+.cloud-icon
+{
+    color: grey;
+    font-size:16px;
+}
+
+*/
+body {
+    margin:           20px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    /*background-image:url("https://images.unsplash.com/photo-1465479423260-c4afc24172c6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjI0MX0&s=c82aae88511a997f903b313466890959&auto=format&fit=crop&w=1500&q=80");
+    
+    min-height: 100vh;
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    margin: 0, auto;
+    color: whitesmoke;
+    opacity: 0.5;
+    filter: alpha(opacity=50);*/
+    
+}
+html{
+    background-color: gray;
+    background:url('../img/trainers.jpg');
+    background-attachment:fixed;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+    #background {
+        background:url('../img/trainers.jpg');
+        background-attachment:fixed;
+        background-size:cover;
+        background-position:center;
+        background-repeat:no-repeat;
+        margin:0;
+        position:absolute;
+        left:0;
+        top:0;
+        height:100%;
+width: 100%;
+    }
+
+
+p {
+    font-size: 11px;
+    font-display: center;
+    display: block;
+    padding:10px;
+    color: lightgray;
+}
+
+hr {
+    height:5px;
+    border:none;
+    color:lightgray;
+   
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold; 
+    color:whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    margin-bottom: auto;
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+.col {
+    font-size: 20px;
+    color:lightgray;
+    font-family:'Courier New', Courier, monospace;
+    border-radius:  50px;
+    text-align:center;
+
+}
+strong{
+    text-align:center;
+}
+
+.btn {
+    color:lightgray;
+    font-size:      17px;
+    text-align: right;
+    color:          black;
+    display:        block;
+    transition:     all 200ms ease;
+    cursor:         pointer;
+    opacity:        1;
+    box-shadow:     0 20px 20px rgba(0,0,0,0.5);
+    font-family:'Courier New', Courier, monospace;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    margin-bottom: auto;
+}
+
+
+
+
